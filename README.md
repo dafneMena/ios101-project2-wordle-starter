@@ -34,7 +34,6 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app. 
 The most challenging phase was implementing the Alien Wordle Settings. Finding the correct variables to assign the values to was difficult. I was able to solve this by reviewing the properties of the file. 
 
 
