@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<iframe src="https://giphy.com/embed/A2sb3Lx01ve9AXTdzG" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/A2sb3Lx01ve9AXTdzG">via GIPHY</a>
+<iframe src="https://giphy.com/embed/A2sb3Lx01ve9AXTdzG" width="243" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/A2sb3Lx01ve9AXTdzG">via GIPHY</a></p>
 
 
 
